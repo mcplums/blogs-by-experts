@@ -50,6 +50,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 ## Nutrition
 
  - L. Amber O'Hearn: [Meat is best for growing brains](http://www.ketotic.org/2015/03/meat-is-best-for-growing-brains.html)
+ 
+## Personal development
+
+ - Taylor Pearson [A Heuristic for Evaluating Relationships: The Antifragile Person](https://taylorpearson.me/the-antifragile-person/)
 
 ## Physics
 
