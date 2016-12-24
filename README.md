@@ -53,7 +53,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  
 ## Personal development
 
- - Taylor Pearson [A Heuristic for Evaluating Relationships: The Antifragile Person](https://taylorpearson.me/the-antifragile-person/)
+ - Taylor Pearson: [A Heuristic for Evaluating Relationships: The Antifragile Person](https://taylorpearson.me/the-antifragile-person/)
 
 ## Physics
 
